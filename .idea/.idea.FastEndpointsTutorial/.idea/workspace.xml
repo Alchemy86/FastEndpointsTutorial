@@ -9,7 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9431075-910a-4f0a-91bb-a42dbf4d310a" name="Changes" comment="" />
+    <list default="true" id="e9431075-910a-4f0a-91bb-a42dbf4d310a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FastEndpointsTutorial/Mappers/WeatherForecastMapper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FastEndpointsTutorial/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FastEndpointsTutorial/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FastEndpointsTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FastEndpointsTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastEndpointsTutorial/Endpoints/WeatherForecastEndpoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FastEndpointsTutorial/Endpoints/WeatherForecastEndpoint.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastEndpointsTutorial/FastEndpointsTutorial.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FastEndpointsTutorial/FastEndpointsTutorial.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FastEndpointsTutorial/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FastEndpointsTutorial/Program.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,17 +49,28 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8ce284dd96769341c0597fc5532bc853df4618b5e61ce04a44ca86b6c1a5/Lazy.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f33b6272803d43f30b70b72d52d4f23aeb62cc92eae45bf4aeda981fa9/Endpoint.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8ce284dd96769341c0597fc5532bc853df4618b5e61ce04a44ca86b6c1a5/Lazy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/9d41a1693aebd4fcb2f270da1376b53ff2f1f8dbe8b15387d214d310fced98a/MapperConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/b728321e4bff5381884298e344190f1ad5d4026da98909e50631a7e5e82f5a4/Mapper.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f33b6272803d43f30b70b72d52d4f23aeb62cc92eae45bf4aeda981fa9/Endpoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="26mCqJu0IYFSlKfCxyLkflMU9co" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -108,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648019563746</updated>
-      <workItem from="1648019566963" duration="3811000" />
+      <workItem from="1648019566963" duration="12087000" />
     </task>
     <task id="LOCAL-00001" summary="Ignore added">
       <created>1648023137241</created>

@@ -5,7 +5,8 @@ var builder = WebApplication.CreateBuilder();
 
 builder.Services
     .AddFastEndpoints()
-    .AddSwaggerDoc();
+    .AddSwaggerDoc()
+    .AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
 

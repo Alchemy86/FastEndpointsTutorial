@@ -1,4 +1,182 @@
-﻿GET http://localhost:5000/weather/3
+﻿GET http://localhost:8080/weather/2
+Accept: application/json
+
+<> 2022-03-23T122523.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T122518.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T122036.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T121413.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T121253.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T120845.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T120732.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T120716.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T105856.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T105840.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T105835.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T105830.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T094615.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T091542.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T091516.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T091425.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T091303.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085901.200.json
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085544.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085516.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085503.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085422.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T085100.500.txt
+
+###
+
+GET http://localhost:8080/weather/3
+Accept: application/json
+
+<> 2022-03-23T084927.500.txt
+
+###
+
+GET http://localhost:5000/weather/3
 Accept: application/json
 
 <> 2022-03-23T074509.200.json
