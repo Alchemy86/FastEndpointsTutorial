@@ -1,0 +1,34 @@
+﻿{
+  "forecasts": [
+    {
+      "date": "2022-03-24T07:35:31.5249062+00:00",
+      "temperatureC": -4,
+      "temperatureF": 25,
+      "summary": "Chilly"
+    },
+    {
+      "date": "2022-03-25T07:35:31.5251055+00:00",
+      "temperatureC": 51,
+      "temperatureF": 123,
+      "summary": "Cool"
+    },
+    {
+      "date": "2022-03-26T07:35:31.5251072+00:00",
+      "temperatureC": -17,
+      "temperatureF": 2,
+      "summary": "Hot"
+    },
+    {
+      "date": "2022-03-27T07:35:31.5251075+01:00",
+      "temperatureC": 33,
+      "temperatureF": 91,
+      "summary": "Scorching"
+    },
+    {
+      "date": "2022-03-28T07:35:31.5251077+01:00",
+      "temperatureC": -7,
+      "temperatureF": 20,
+      "summary": "Chilly"
+    }
+  ]
+}

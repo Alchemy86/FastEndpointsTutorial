@@ -1,0 +1,22 @@
+﻿{
+  "forecasts": [
+    {
+      "date": "2022-03-24T07:37:30.0386813+00:00",
+      "temperatureC": -3,
+      "temperatureF": 27,
+      "summary": "Scorching"
+    },
+    {
+      "date": "2022-03-25T07:37:30.0386876+00:00",
+      "temperatureC": 17,
+      "temperatureF": 62,
+      "summary": "Chilly"
+    },
+    {
+      "date": "2022-03-26T07:37:30.0386878+00:00",
+      "temperatureC": 54,
+      "temperatureF": 129,
+      "summary": "Chilly"
+    }
+  ]
+}

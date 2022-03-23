@@ -1,0 +1,22 @@
+﻿{
+  "forecasts": [
+    {
+      "date": "2022-03-24T07:45:09.5239332+00:00",
+      "temperatureC": 11,
+      "temperatureF": 51,
+      "summary": "Cool"
+    },
+    {
+      "date": "2022-03-25T07:45:09.5240916+00:00",
+      "temperatureC": -8,
+      "temperatureF": 18,
+      "summary": "Sweltering"
+    },
+    {
+      "date": "2022-03-26T07:45:09.5240927+00:00",
+      "temperatureC": 29,
+      "temperatureF": 84,
+      "summary": "Balmy"
+    }
+  ]
+}

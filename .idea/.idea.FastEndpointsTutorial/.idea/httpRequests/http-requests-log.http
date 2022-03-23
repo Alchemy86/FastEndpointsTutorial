@@ -1,0 +1,73 @@
+﻿GET http://localhost:5000/weather/3
+Accept: application/json
+
+<> 2022-03-23T074509.200.json
+
+###
+
+GET http://localhost:5000/weather/3
+Accept: application/json
+
+###
+
+GET http://localhost:5000/weather/3
+Accept: application/json
+
+<> 2022-03-23T073730.200.json
+
+###
+
+GET http://localhost:5000/weather/1
+Accept: application/json
+
+<> 2022-03-23T073724.200.json
+
+###
+
+GET http://localhost:5000/weather/1
+Accept: application/json
+
+<> 2022-03-23T073556.200.json
+
+###
+
+GET http://localhost:5000/weather/1
+Accept: application/json
+
+<> 2022-03-23T073540.200.json
+
+###
+
+GET http://localhost:5000/weather/3
+Accept: application/json
+
+<> 2022-03-23T073531.200.json
+
+###
+
+GET http://localhost:5000/weather/3
+Accept: application/json
+
+###
+
+GET http://localhost:5000/example
+Accept: application/json
+
+<> 2022-03-23T072230.200.json
+
+###
+
+GET http://localhost:5000/example
+Accept: application/json
+
+<> 2022-03-23T072229.200.json
+
+###
+
+GET http://localhost:5000/example
+Accept: application/json
+
+<> 2022-03-23T072223.200.json
+
+###
+
