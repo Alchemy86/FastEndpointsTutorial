@@ -1,5 +1,8 @@
 ﻿global using FastEndpoints;
+global using FastEndpoints.Validation;
+
 using FastEndpoints.Swagger;
+using MongoDB.Entities;
 
 var builder = WebApplication.CreateBuilder();
 
@@ -16,5 +19,7 @@ app.UseOpenApi();
 
 // Add Swagger Docs
 app.UseSwaggerUi3(c => c.ConfigureDefaults());
+
+await DB.InitAsync(database: "MyDatabase", host: "localhost", port: 27017);
 
 app.Run();

@@ -1,4 +1,51 @@
-﻿GET http://localhost:8080/weather/2
+﻿GET http://localhost:8080/weather/4
+Accept: application/json
+
+<> 2022-03-23T141453.200.json
+
+###
+
+GET http://localhost:8080/weather/4
+Accept: application/json
+
+<> 2022-03-23T141450.200.json
+
+###
+
+GET http://localhost:8080/weather/4
+Accept: application/json
+
+<> 2022-03-23T141403.200.json
+
+###
+
+GET http://localhost:8080/weather/2
+Accept: application/json
+
+<> 2022-03-23T141358.200.json
+
+###
+
+GET http://localhost:8080/weather/2
+Accept: application/json
+
+<> 2022-03-23T141327.200.json
+
+###
+
+GET http://localhost:8080/weather/2
+Accept: application/json
+
+###
+
+GET http://localhost:8080/weather/2
+Accept: application/json
+
+<> 2022-03-23T124607.200.json
+
+###
+
+GET http://localhost:8080/weather/2
 Accept: application/json
 
 <> 2022-03-23T122523.200.json

@@ -13,7 +13,7 @@ public class WeatherForecastMapper : Mapper<WeatherForecaseRequest, WeatherForec
     {
         var configuration = new MapperConfiguration(cfg =>
         {
-            //cfg.CreateMap<WeatherForecastResponse, WeatherForecast>();
+            // create your own locally
             cfg.CreateMap<WeatherForecast, WeatherForecastResponse>();
         });
         _mapper = configuration.CreateMapper();

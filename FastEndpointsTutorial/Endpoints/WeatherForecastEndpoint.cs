@@ -1,5 +1,4 @@
-﻿using AutoMapper;
-using FastEndpointsTutorial.Mappers;
+﻿using FastEndpointsTutorial.Mappers;
 using FastEndpointsTutorial.Models;
 using FastEndpointsTutorial.Requests;
 using FastEndpointsTutorial.Responses;
@@ -8,8 +7,6 @@ namespace FastEndpointsTutorial.Endpoints;
 
 public class WeatherForecastEndpoint : Endpoint<WeatherForecaseRequest, WeatherForecastsResponse, WeatherForecastMapper>
 {
-    private readonly IMapper _mapper;
-
     private static readonly string[] Summaries =
     {
         "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -21,11 +18,6 @@ public class WeatherForecastEndpoint : Endpoint<WeatherForecaseRequest, WeatherF
         Routes("weather/{days}");
         AllowAnonymous();
         Description(x => x.Produces<WeatherForecastResponse>(200, "application/json"));
-    }
-
-    public WeatherForecastEndpoint(IMapper mapper)
-    {
-        _mapper = mapper;
     }
     
     public override async Task HandleAsync(WeatherForecaseRequest req, CancellationToken ct)
@@ -44,7 +36,7 @@ public class WeatherForecastEndpoint : Endpoint<WeatherForecaseRequest, WeatherF
         
         var response = new WeatherForecastsResponse
         {
-            Forecasts = forecasts.Select(x => Map.FromEntity(x))
+            Forecasts = forecasts.Select(Map.FromEntity)
         };
 
         await SendAsync(response, cancellation: ct);
