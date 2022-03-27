@@ -10,3 +10,4 @@ Added:
   AutoMapper
   Auth Endpoints
  
+ [Install MongoDB locally](https://dev.to/djnitehawk/how-to-install-mongodb-server-on-windows-linux-4in)
